@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/waib3/static/css/main.0755a779.css",
+    "main.js": "/waib3/static/js/main.9acc3f68.js",
+    "static/media/hoodie (2).png": "/waib3/static/media/hoodie (2).55e10512dec33d737888.png",
+    "static/media/cap.png": "/waib3/static/media/cap.47d670099546fb52eb86.png",
+    "static/media/hoodie.png": "/waib3/static/media/hoodie.b4fadafd6fc310995f20.png",
+    "static/media/mug (2).png": "/waib3/static/media/mug (2).fb213fe530aae0a43a37.png",
+    "static/media/pen.png": "/waib3/static/media/pen.b876d4332a8778ca6ef9.png",
+    "static/media/waib3.jpg": "/waib3/static/media/waib3.e89d2e3862eb299a809a.jpg",
+    "static/media/waib3 (2).jpg": "/waib3/static/media/waib3 (2).5e13ebeb9c98bacc2773.jpg",
+    "static/media/waib3 (3).jpg": "/waib3/static/media/waib3 (3).46e380a1baec4875c1ea.jpg",
+    "index.html": "/waib3/index.html",
+    "main.0755a779.css.map": "/waib3/static/css/main.0755a779.css.map",
+    "main.9acc3f68.js.map": "/waib3/static/js/main.9acc3f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0755a779.css",
+    "static/js/main.9acc3f68.js"
+  ]
+}
